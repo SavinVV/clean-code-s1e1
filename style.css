@@ -18,8 +18,11 @@ body {
 }
 
 @media (max-width:768px) {
-.eisenhower-matrix-promo { text-align: center;
-}
+
+  .eisenhower-matrix-promo { 
+    text-align: center;
+  }
+
 }
 .task-designer {
     display: block;
