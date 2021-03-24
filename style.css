@@ -130,7 +130,7 @@ li > .delete:hover {
 }
 
 /* Completed */
-#completed-tasks label {
+#completed label {
     text-decoration: line-through;
     color: #888;
 }
@@ -140,11 +140,11 @@ ul li input[type="text"] {
     display: none;
 }
 
-ul .edit-mode input[type="text"] {
+ul .task_edit input[type="text"] {
     display: inline-block;
     width: 224px;
 }
 
-ul .edit-mode label {
+ul .task_edit label {
     display: none;
 }
